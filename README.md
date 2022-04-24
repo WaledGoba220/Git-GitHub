@@ -38,5 +38,5 @@ This Summary includes :
 
 ✸ ignoring files and directories
 
-✸ tagging and releasing
+✸ tagging and releasing 
 
